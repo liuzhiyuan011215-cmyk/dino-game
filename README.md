@@ -1,7 +1,7 @@
 과제 실행 안내 README
 
 ■ 과제명: Github_배포
-■ 이름: LIU ZHIYUAN (유지원) / 학번: 2544412
+■ 이름: LIU ZHIYUAN (유지원)
 ■ 프로그램: 공룡 달리기 (크롬 공룡 게임 스타일 웹 게임)
 ■ 배포 주소: https://liuzhiyuan011215-cmyk.github.io/dino-game/
 ■ GitHub 저장소: https://github.com/liuzhiyuan011215-cmyk/dino-game
